@@ -10,3 +10,22 @@
 .sidebar {
   min-height: 700px;
 }
+
+.post-card {
+  margin: 15px 25px;
+}
+
+.tags {
+  margin: 0 3px;
+}
+
+.reactions {
+  margin: 15px 0 0 0;
+  padding: 3px;
+}
+
+.create-post {
+  width: 80%;
+  margin-left: 10%;
+  margin-top: 50px;
+}
